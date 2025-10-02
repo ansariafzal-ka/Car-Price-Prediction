@@ -32,5 +32,6 @@ This project demonstrates an end-to-end machine learning pipeline:
 ## 📈 Model Performance
 
 - **R² Score**: 0.8198
-- **RMSE**: 0.3526
+- **MSE**: 0.1243
 - **MAE**: 0.2647
+- **RMSE**: 0.3526
